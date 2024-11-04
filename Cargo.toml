@@ -13,3 +13,4 @@ log = { version = "0.4.22", features = ["std"] }
 openssl = { version = "0.10", features = ["vendored"] }
 reqwest = { version = "0.12.9", features = ["blocking"] }
 serde = { version = "1.0.214", features = ["derive"] }
+url = "2.5.3"
